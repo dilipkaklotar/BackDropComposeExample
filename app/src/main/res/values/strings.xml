@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackDrop Example</string>
+    <string name="button_count">%d Count</string>
+    <string name="select_args">Category %d</string>
+    <string name="selection_args">Category %d</string>
+    <string name="item">Product %d</string>
+</resources>
